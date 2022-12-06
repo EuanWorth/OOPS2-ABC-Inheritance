@@ -1,5 +1,5 @@
 public class A {
-    A() {
+    A(int x) {
 
     }
 }

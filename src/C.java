@@ -1,5 +1,5 @@
 public class C extends B {
-    C() {
-        super();
+    C(int x) {
+        super(x);
     }
 }
