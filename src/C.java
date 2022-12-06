@@ -1,4 +1,4 @@
-public class C {
+public class C extends B {
     C() {
         super();
     }
