@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class A {
+public class A {
+    A() {
+
+    }
 }

@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class C {
+public class C {
+    C() {
+        super();
+    }
 }
